@@ -1,0 +1,1 @@
+select brand, year from cars
